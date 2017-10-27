@@ -11,7 +11,4 @@ Good for Windows 7 to 10.
 
 Uses PowerShell and Custom encoding.
 
-This program utilizes C++ 11, and when compiling, be sure to add a new compiler flag as follows
-Name: whatever you want
-Compiler flags: -mwindows
-Linker flags: -mwindows
+To compile it you need to enable C++11 standards and -mwindows flag
